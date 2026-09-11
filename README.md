@@ -1,19 +1,38 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# 🎉 Interactive Celebration & Greetings Web App
+
+[![HTML5](https://img.shields.io/badge/HTML-5-E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS-3-1572B6.svg?logo=css3&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF.svg?logo=vite&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> An interactive celebration greeting card website featuring hover-triggered CSS micro-interactions, CSS background transitions, and responsive typography.
+
+---
+
+## ✨ Features
+
+- **Interactive Hover Reveals:** CSS hover transitions revealing personalized celebration graphics.
+- **Custom Web Typography:** Google Fonts integration (`Happy Monkey`) with responsive scaling.
+- **Vite Build System:** Fast local development workflow and minified production builds.
+
+---
+
+## 🚀 Quickstart
+
+```bash
+# Clone the repository
+git clone https://github.com/arslantariq364/Birthday-Site-.git
+cd Birthday-Site-
+
+# Install and run
 npm install
-npm start
+npm run dev
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 👨‍💻 Author
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+**Arslan Tariq**  
+*Computer Science Undergraduate @ FAST NUCES*  
+[GitHub Profile](https://github.com/arslantariq364)
